@@ -4,8 +4,8 @@ Recording all the things related to setting up a jupyter lab or a jupyter notebo
 
 ## Cell manipulation
 Vim for editing cells
-https://github.com/lambdalisue/jupyter-vim-binding
+> https://github.com/lambdalisue/jupyter-vim-binding
 
 ## Fonts
-Discussion on Helevetica with matplotlib
-https://github.com/olgabot/sciencemeetproductivity.tumblr.com/blob/master/posts/2012/11/how-to-set-helvetica-as-the-default-sans-serif-font-in.md
+Discussion on Helvetica with matplotlib
+> https://github.com/olgabot/sciencemeetproductivity.tumblr.com/blob/master/posts/2012/11/how-to-set-helvetica-as-the-default-sans-serif-font-in.md
